@@ -4,16 +4,16 @@ I problemi sono di ordine generale e di difficoltà varia. La struttura è quell
 
 ## Struttura del repo
 ### Problemi 1° anno
-1.1 Introduzione alla fisica
-1.1 Introduzione ai principi della dinamica,le forze e l'equilibrio statico
-1.1 Il momento di una forza e l'equilibrio rotazionale
-1.1 La statica dei fluidi
-1.1 Problemi vari
+1. .1) Introduzione alla fisica
+1. .2) Introduzione ai principi della dinamica,le forze e l'equilibrio statico
+1. .3) Il momento di una forza e l'equilibrio rotazionale
+1. .4) La statica dei fluidi
+1. .5) Problemi vari
 ### Problemi 2° anno
-1. Cinematica unidimensionale
-1. Dinamica dle punto materiale
-1. Lavoro ed Energia
-1. Termologia
+1. .1) Cinematica unidimensionale
+1. .2) Dinamica dle punto materiale
+1. .3) Lavoro ed Energia
+1. .4)Termologia
 1. Ottica geometrica
 ### Problemi 3° anno
 
@@ -22,3 +22,13 @@ I problemi sono di ordine generale e di difficoltà varia. La struttura è quell
 ### Problemi 5° anno
 1. Item 3a
 . Item 3b
+
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
+2. Cat
+    1. Siberian
+    2. Siamese
