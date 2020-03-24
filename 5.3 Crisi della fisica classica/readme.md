@@ -4,7 +4,7 @@ Potete trovare una versione interattiva direttamente qui
 Lista dei problemi
 
 1. Problemi su scoperta raggi catodici e la scoperta dell'elettrone
-  1. Moto dell'elettrone in un campo magnetico
-  1. Moto di uno ione in un campo magnetico
-  1. Levitazione magnetica
+  1.1 Moto dell'elettrone in un campo magnetico
+  1.1 Moto di uno ione in un campo magnetico
+  1.1 Levitazione magnetica
 
