@@ -10,4 +10,6 @@
 
 ## [5.3.2 Millikan e l'unità fondamentale della carica](https://github.com/massimobosetti/Physics-Problem/blob/master/5.3%20Crisi%20della%20fisica%20classica/5.3.2%20L'epserimento%20di%20Millikan%20e%20l'unit%C3%A0%20fondamentale%20della%20carica.ipynb)
 
-1. 
+1. Applicazione del modello di Millikan
+
+## [5.3.3 Diffrazione di raggi X]()
