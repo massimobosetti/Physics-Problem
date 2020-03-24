@@ -3,7 +3,7 @@ Solved Physics problem
 I problemi sono di ordine generale e di difficoltà varia. La struttura è quella tipica del corso di fisica di un liceo scientifico, con alcune divagazioni di mio interesse.
 
 ## Struttura del repo
-### Problemi 1° anno
+1. Problemi 1° anno
 1. .1) Introduzione alla fisica
 1. .2) Introduzione ai principi della dinamica,le forze e l'equilibrio statico
 1. .3) Il momento di una forza e l'equilibrio rotazionale
