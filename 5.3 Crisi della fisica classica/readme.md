@@ -18,7 +18,7 @@
 
 ## [5.3.4 Modelli atomici](https://github.com/massimobosetti/Physics-Problem/blob/master/5.3%20Crisi%20della%20fisica%20classica/5.3.4%20Modelli%20atomici.ipynb)
 
-1. Scattering Rutherford -  distanz aminima dal nucleo in urto head to head 
+1. Scattering Rutherford -  distanza minima dal nucleo in urto head to head 
 
 ## [5.3.5 Radiazione di Corpo Nero](https://github.com/massimobosetti/Physics-Problem/blob/master/5.3%20Crisi%20della%20fisica%20classica/5.3.5%20Radiazione%20di%20Corpo%20Nero.ipynb)
 
