@@ -12,15 +12,25 @@ I problemi sono di ordine generale e di difficoltà varia. La struttura è quell
     5. Problemi vari
 1. Problemi 2° anno
     1. Cinematica unidimensionale
+        1. Moto Rettilineo Uniforme
+        1. Moto Uniformeemente accelerato
     2. Dinamica dle punto materiale
     3. Lavoro ed Energia
     4. Termologia
     5. Ottica geometrica
     6. Problemi vari
 1. Problemi 3° anno
-
+    1. Cinematica bidimensionale
+    1. Quantità di moto ed urti
+    1. Relatività Galileiana e introduzione alla relatività speciale
+    1. Cinematica e Dinamica del corpo rigido
+    1. La Gravitazione Universale e le leggi di Keplero
+    1. La Dinaimica dei Fluidi
+    1. Termodinamica
 1. Problemi 4° anno
-
+    1. Onde e suono
+    1. Onde e luce: ottica fisica
+    1. Elettricità & Magentismo
 1. Problemi 5° anno
     1. Induzione Elettromagnetica ed equazionidi Maxwell
     2. Relatività
