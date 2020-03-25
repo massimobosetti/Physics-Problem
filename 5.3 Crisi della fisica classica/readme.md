@@ -14,6 +14,12 @@
 
 ## [5.3.3 Diffrazione di raggi X](https://github.com/massimobosetti/Physics-Problem/blob/master/5.3%20Crisi%20della%20fisica%20classica/5.3.3%20Diffrazione%20di%20raggi%20X.ipynb)
 
-## [5.3.4 Modelli atomici]()
+1.
 
-## [5.3.5 Problemi Vari]()
+## [5.3.4 Modelli atomici](https://github.com/massimobosetti/Physics-Problem/blob/master/5.3%20Crisi%20della%20fisica%20classica/5.3.4%20Modelli%20atomici.ipynb)
+
+1. Scattering Rutherford -  distanz aminima dal nucleo in urto head to head 
+
+## [5.3.5 Radiazione di Corpo Nero]()
+
+## [5.3.6 Problemi Vari]()
