@@ -21,6 +21,6 @@
 1. Scattering Rutherford -  distanza minima dal nucleo in urto head to head 
 
 ## [5.3.6 Radiazione di Corpo Nero](https://github.com/massimobosetti/Physics-Problem/blob/master/5_anno/5.3%20Crisi%20della%20fisica%20classica/5.3.5%20I%20primi%20modelli%20atomici.ipynb)
-- ## [5.3.6.1 Leggi di Wien e Stefan Boltzmann](https://github.com/massimobosetti/Physics-Problem/blob/master/5_anno/5.3%20Crisi%20della%20fisica%20classica/5.3.6.1%20esercizi%20sulle%20leggi%20di%20Wien%20e%20Stefan%20(Irraggiamento).ipynb)
+- ### [5.3.6.1 Leggi di Wien e Stefan Boltzmann](https://github.com/massimobosetti/Physics-Problem/blob/master/5_anno/5.3%20Crisi%20della%20fisica%20classica/5.3.6.1%20esercizi%20sulle%20leggi%20di%20Wien%20e%20Stefan%20(Irraggiamento).ipynb)
 
 ## [5.3.7 Problemi Vari](https://github.com/massimobosetti/Physics-Problem/blob/master/5.3%20Crisi%20della%20fisica%20classica/5.3.6%20Problemi%20Vari.ipynb)
